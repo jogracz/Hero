@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://asia:asia@hero-cp23g.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
